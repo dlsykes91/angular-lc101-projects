@@ -1,0 +1,11 @@
+h3 {
+    text-decoration: underline;
+}
+li { 
+    font-style: italic;
+}
+
+.chores{
+    color: #AFEEEE;
+    font-size: 20px;
+}
